@@ -1,7 +1,7 @@
 # Discord Nitro Checker 🚀
 
 ![GitHub stars](https://img.shields.io/github/stars/xHERMIS/Disocrd-Nitro-Checker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/xHERM/xHERMIS/Disocrd-Nitro-Checker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/xHERMIS/Disocrd-Nitro-Checker?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/xHERMIS/Disocrd-Nitro-Checker)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/xHERMIS/Disocrd-Nitro-Checker)
 

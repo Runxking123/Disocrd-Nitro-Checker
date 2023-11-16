@@ -1,10 +1,9 @@
 # Discord Nitro Checker 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/discord-nitro-checker?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/discord-nitro-checker?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/your-username/discord-nitro-checker?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/discord-nitro-checker)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/discord-nitro-checker)
+![GitHub stars](https://img.shields.io/github/stars/xHERMIS/Disocrd-Nitro-Checker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/xHERM/xHERMIS/Disocrd-Nitro-Checker?style=social)
+![GitHub issues](https://img.shields.io/github/issues/xHERMIS/Disocrd-Nitro-Checker)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/xHERMIS/Disocrd-Nitro-Checker)
 
 ## About
 Discord Nitro Checker is a tool designed to check the validity of Discord Nitro codes. It's a simple and efficient way to verify the status of Nitro codes for Discord.
@@ -15,7 +14,7 @@ Discord Nitro Checker is a tool designed to check the validity of Discord Nitro 
 - Easy to use
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/discord-nitro-checker.git`
+1. Clone the repository: `git clone https://github.com/xHERMIS/Disocrd-Nitro-Checker.git`
 2. Navigate to the project directory: `cd discord-nitro-checker`
 3. Run the checker: `python nitro_checker.py`
 

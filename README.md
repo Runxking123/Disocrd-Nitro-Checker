@@ -8,6 +8,8 @@
 ## Overview 🌐
 Discord Nitro Checker is a meticulously crafted tool designed to check the validity of Discord Nitro codes. It provides a straightforward and efficient means to verify the status of Nitro codes for Discord.
 
+![image](https://github.com/xHERMIS/Disocrd-Nitro-Checker/assets/104696522/1c156ffd-df77-49d3-a5d6-534c045abd1e)
+
 ## Key Features 🌟
 - Verify the validity of Discord Nitro codes
 - Fast and lightweight

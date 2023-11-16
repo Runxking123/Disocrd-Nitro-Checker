@@ -1,0 +1,10 @@
+{
+    "proxies": "socks4",
+    "thread": "200",
+
+    "webhook": {
+        "url": "",
+        "username": "By github.com/xHERMIS",
+        "avatar": "https://cdn.discordapp.com/attachments/1174721547471175690/1174721581688307803/39e97f13b98cdf4a08f69861fc83fe9f_1.jpg"
+    }
+}
